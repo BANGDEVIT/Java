@@ -3,7 +3,7 @@ com\mycompany\encryption\Ceasar$1.class
 com\mycompany\encryption\Ceasar$2.class
 com\mycompany\encryption\PlayFairGUI$PlayFairCipher.class
 CeaseTest$1.class
-com\mycompany\encryption\VigenereCipher.class
 com\mycompany\encryption\Ceasar.class
 com\mycompany\encryption\VigenereCipherGUI.class
 CeaseTest.class
+com\mycompany\encryption\VigenereCipherGUI$VigenereCipher.class
